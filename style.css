@@ -1,0 +1,96 @@
+body {
+    background-color: #131515;
+}
+
+.top {
+    background-color: #090a0a;
+}
+
+.top:h6:hover {
+    color: aquamarine;
+}
+
+h5 :hover {
+    color: aqua;
+}
+
+.navbar-nav {
+    padding-left: 50px;
+}
+
+.logo {
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 28px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.nav-item {
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.ad-img {
+    height: 230px;
+    width: 1350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 4%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.cat {
+    color: aliceblue;
+    margin-left: 35px;
+    font-weight: bolder;
+    margin-top: 35px;
+}
+
+.obj {
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.tit {
+    color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.cat:hover {
+    color: aqua;
+}
+
+.down {
+    height: 50px;
+    width: 50px;
+    border: solid 2px;
+    margin-top: 15px;
+}
+
+.down-text {
+    color: aliceblue;
+    margin-top: 5px;
+    font-size: large;
+}
+
+.down-text :hover {
+    opacity: 0.5;
+    background-color: gray;
+}
+
+.songs :hover {
+    opacity: 0.5;
+    background-color: gray;
+}
+
+.player {
+    background-color: #131515;
+}
